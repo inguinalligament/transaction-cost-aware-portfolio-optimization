@@ -2,7 +2,9 @@
 Portfolio optimization with regime switching and transaction costs. Uses rolling estimates and convex optimization to rebalance a portfolio under changing market conditions.
 
 
-regime-switching-portfolio-optimizer/
+## Repository Structure
+```
+transaction-cost-aware-portfolio-optimization/
 │
 ├── README.md
 ├── requirements.txt
@@ -47,3 +49,4 @@ regime-switching-portfolio-optimizer/
     ├── test_optimizer.py
     ├── test_transaction_costs.py
     └── test_backtest.py
+```
